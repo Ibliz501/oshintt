@@ -76,5 +76,5 @@ Tools ini dibuat untuk testi saja. Gunakan dengan bijak dan jangan untuk hal ile
 ---
 
 <p align="center">
-  ⚡ Made with Python & 
+  ⚡ Made with Python 
 </p>
